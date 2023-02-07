@@ -1,0 +1,48 @@
+.n1{
+    margin:10px;
+    padding: 10px 100px;
+    border: 2 double blue;
+    background-color:aquamarine;
+}
+.n2{
+    width: 100px;
+    height: 70px;
+    padding-right: 20px;
+    
+}
+.n3{
+    margin:100px;
+    padding: 50px 500px;
+    border: 2px dashed blue;
+    justify-content: center;
+    background-color: aqua;
+}
+.n4{
+    margin:2px;
+    padding: 250px 500px;
+    border: 2px double blue;
+    background-image: url(img3.jpg);
+    
+    background-color: aqua;
+    
+    background-position: 30px 40px;
+    background-size:700px;
+
+}
+#n5{
+    text-decoration:double;
+    text-decoration-color: blueviolet;
+
+}
+#n6{
+    margin:5px;
+    padding: 10px 200px;
+}
+.n7
+{
+    background-color:lightslategrey;
+}
+#n9{
+    text-align: right;
+    font-size: larger;
+}
