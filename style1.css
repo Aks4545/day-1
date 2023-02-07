@@ -1,8 +1,9 @@
 .n1{
-    margin:10px;
-    padding: 10px 100px;
-    border: 2 double blue;
+    text-align: center;
+    text-size-adjust: 30;
+    
     background-color:aquamarine;
+    justify-content: center;
 }
 .n2{
     width: 100px;
@@ -13,14 +14,14 @@
 .n3{
     margin:100px;
     padding: 50px 500px;
-    border: 2px dashed blue;
+    
     justify-content: center;
     background-color: aqua;
 }
 .n4{
     margin:2px;
     padding: 250px 500px;
-    border: 2px double blue;
+ 
     background-image: url(img3.jpg);
     
     background-color: aqua;
@@ -45,4 +46,7 @@
 #n9{
     text-align: right;
     font-size: larger;
+}
+#n10{
+    text-align: left;
 }
