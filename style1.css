@@ -13,23 +13,12 @@
 }
 .n3{
     margin:100px;
-    padding: 50px 500px;
+    padding: 100px 800px;
     
     justify-content: center;
     background-color: aqua;
 }
-.n4{
-    margin:2px;
-    padding: 250px 500px;
- 
-    background-image: url(img3.jpg);
-    
-    background-color: aqua;
-    
-    background-position: 30px 40px;
-    background-size:700px;
 
-}
 #n5{
     text-decoration:double;
     text-decoration-color: blueviolet;
@@ -41,7 +30,7 @@
 }
 .n7
 {
-    background-color:lightslategrey;
+    background-color:rgb(255, 255, 255);
 }
 #n9{
     text-align: right;
@@ -50,3 +39,10 @@
 #n10{
     text-align: left;
 }
+.centered {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    text-size-adjust: 50px;
+  }
